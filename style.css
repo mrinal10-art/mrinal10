@@ -1,0 +1,262 @@
+body
+{
+    background-color:#00bdc4;
+    margin-left:150px;
+}
+.outer
+{
+    width:1200px;
+    background-color: #aaa;
+
+}
+.header
+{
+    width:1200px;
+    height:200px;
+    background-color: aqua;
+
+}
+.lefth
+{
+    width:100px;
+    height:100px;
+    background-color:#eee;
+    float: left;
+    margin-top:25px;
+    margin-left:50px;
+    transition:3s;
+    border-radius: 50%;
+
+}
+.lefth:hover
+{
+    transition:3s;
+    margin: 25px 0px 0px 150px;
+}
+.righth
+{
+    width:500px;
+    height:100px;
+    background-color: blue;
+    margin: 25px 50px 0px 0px;
+    float: right;
+    padding: 40px 0px 0px 25px;
+    box-sizing: border-box;
+    color: #eee;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.righth:hover
+{
+    background-color:black;
+    color:royalblue;
+
+}
+.menubar
+{
+    width:1200px;
+    height:50px;
+    background-color:pink;
+    float: right;
+    margin: 10px 0px 10px 0px;
+    
+
+}
+.menu
+{
+    width: 150px;
+    height:25px;
+    background-color: pink;
+    float: left;
+    margin:20px 0px 10px 45px;
+    border-radius: 10px;
+    padding:5px 0px 0px 10px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    color:#000;
+    text-align: center;
+
+}
+.menu:hover
+{
+    background-color: skyblue;
+    color:black;
+}
+.slider
+{
+    width:1200px;
+    height:400px;
+   
+
+    
+}
+.main
+{
+    width:1200px;
+    background-color:#eee;
+    float:left;
+}
+.mleft
+{
+    width: 250px;
+    height: 400px;
+    background-color: #eee;
+    float: left;
+}
+.lmenu
+{
+    width:140px;
+    height: 40px;
+    background-color: royalblue;
+    border-radius: 10px;
+    margin:10px 50px;
+    padding:15px;
+    box-sizing: border-box;
+    text-align:center;
+    transition: 3s;
+
+}
+red
+{
+    color: red;
+}
+.lmenu:hover
+{
+    background-color: #fff;
+    transition: 2s;
+    margin:10px 0px 0px 100px ;
+    
+}
+.mright
+{
+    width: 948px;
+    min-height: 600px;
+    background-color: #eee;
+    float: right;
+    border-left:dashed 1px black ;
+    padding: 0px 25px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+.footer
+{
+    width: 1200px;
+    height: 200px;
+    background-color:#fff;
+    clear: both;
+}
+.fmenu
+{
+    height:20px;
+    background-color: #fff;
+    float:left;
+    margin: 80px 5px;
+    border-right:1px solid black;
+    padding: 0px 10px 0px 10px;
+    box-sizing: border-box;
+
+}
+.ml
+{
+    margin-left: 700px;
+}
+.fmenu:hover
+{
+    background-color: skyblue;
+
+}
+.gimages
+{
+    width:200px;
+    height:200px;
+    background-color: #aaa;
+    float: left;
+    margin: 20px 40px 30px 40px;
+
+    
+
+}
+a
+{
+    text-decoration: none;
+   
+}
+.gimages:hover
+{
+    opacity:0.8;
+    transform: scale(1.5,1.5);
+    transition: 2s;
+}
+.curow
+{ 
+    width: 850px;
+    height:100px;
+    background-color:#eee;
+    
+    
+    
+
+}
+.culeft
+{
+    width:200px;
+    height:50px;
+    background-color: #aaa;
+    border-radius:5px;
+    margin: 25px 0px 0px 20px;
+    box-sizing: border-box;
+    float: left;
+    padding-top: 15px;
+    text-align: center;
+    font-size:larger ;
+    font-family: sans-serif;
+
+
+}
+.curight
+{
+    width: 600;
+    height: 50px;
+    background-color: #aaa;
+    border-radius: 5px;
+    margin: 25px 20px 0px 0px;
+    float: right;
+    padding: 15px 0px 0px 100px;
+    box-sizing: border-box;
+    font-size:larger ;
+    font-family: sans-serif;
+}
+.input
+{
+    width: 500px;
+    height: 25  px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.pn
+{
+    padding: 10px 0px 0px 25px;
+}
+.tarea
+{
+    width: 550px;
+    height: 100px;
+    font-size: larger;
+    margin-top: 20px;
+}
+.ht
+{
+    height: 150px;
+}
+.btn
+{
+    width:80px;
+    height:30px;
+    background-color: royalblue;
+    color: red;
+    text-align:center;
+}
+.mg
+{
+    margin-top: 50px;
+}
